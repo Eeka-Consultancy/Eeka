@@ -102,7 +102,20 @@
                 &nbsp;&nbsp;
                 <input type="radio" name="gender"> FEMALE
                 &nbsp;&nbsp;
+<<<<<<< HEAD:register.php
                 <input type="radio" name="gender"> OTHER				        
+=======
+                <input type="radio" name="gender"> OTHER
+				<br><br>				
+				<input type="checkbox"> REMEMBER ME
+				<br>
+				<br>
+                <button class="btn btn-outline-light" style="padding: 5px 30px 5px 30px;">REGISTER</button><br> <br>
+			</form>
+                <a href="login.php">
+                    <button class="btn btn-outline-light" style="padding: 5px 39px 5px 40px;margin-bottom: 10px;">GO TO LOGIN</button>
+                </a>
+>>>>>>> e7ee335adf2ba4a9272b78b21511b50a5a473314:register.php
 		</div>
         <div class="col-xl-3 col-md-4 col-sm-12 col-xs-12" style="background-color: white;color: black;">                        
                 <label for="fname">LAST NAME</label>

@@ -21,6 +21,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto" id="nav-lang">
                 <li class="nav-item">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e7ee335adf2ba4a9272b78b21511b50a5a473314
                     <a class="nav-link scroll-link " href="index.php">HOME</a>
                 </li>
                 <li class="nav-item">
@@ -38,6 +42,34 @@
                 <li class="nav-item">
                     <a class="nav-link scroll-link " style="margin-right: 10px;" href="login.php">LOGIN</a>
                 </li>                
+<<<<<<< HEAD
+=======
+=======
+                    <a class="nav-link scroll-link " href="index.html">HOME</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " href="#section-1">SERVICE</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " href="#section-2">CAREERS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " href="#section-3">CLIENTS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " href="#section-1">ABOUT US</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " style="margin-right: 10px;" href="#section-1">CONTACT</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link scroll-link " style="margin-right: 10px;" href="login.html">LOGIN</a>
+                </li>                                
+                <li class="nav-item">
+                    <a class="nav-link scroll-link btn btn-outline-primary" id="nav-btn" href="#section-4">Get Started</a>
+                </li>
+>>>>>>> 3c9d29e0ad05bdda5ac2590a5df3a4397812c8fc
+>>>>>>> e7ee335adf2ba4a9272b78b21511b50a5a473314
             </ul>
         </div>
     </div>
@@ -45,6 +77,7 @@
 
 									<!-- 2nd section div includes image and quots -->
 
+<<<<<<< HEAD
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-xl-12">
@@ -53,5 +86,8 @@
 		</div>
 	</div>
 </div>
+=======
+
+>>>>>>> e7ee335adf2ba4a9272b78b21511b50a5a473314
 </body>
 </html>	
