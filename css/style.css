@@ -1,0 +1,33 @@
+.nav
+{
+	color: black; background-color: white;
+	/* box-shadow: 0px 1px 0px black; */
+}
+#nav-lang>li>a
+{
+	font-family: 'Quicksand', sans-serif;	
+	padding-left: 20px;
+	font-weight: bold;
+}
+#nav-btn
+{
+	color: black;
+	padding: 8px 20px 8px 20px;	
+}
+#nav-btn:hover
+{
+	color: white;
+}
+#construct
+{
+	background-image: url('../images/construct.gif');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	background-position: center;	
+
+}
+a
+{
+	text-decoration: none;
+}

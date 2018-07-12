@@ -1,0 +1,151 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	    box-sizing: border-box;
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+        
+    }
+}
+
+
+body
+{
+	background-color:#e6eff9;
+	font-family:monospace;
+}
+.header {
+  overflow: hidden;
+  background-color:;
+  padding: 5px 5px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color:none;
+    margin-top: 26px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header  a.logo {
+  font-size: 20px;
+  font-weight: normal;
+  color: black;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color:;
+  color: black;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+.navbar-inverse .navbar-brand {
+    color:black;
+    font-size: 20px;
+  font-weight: normal;
+}
+.navbar-inverse .navbar-brand:hover {
+    color:black;
+    font-size: 20px;
+  font-weight: normal;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color:black;
+    font-size:15px;
+  font-weight: normal;  
+  padding-left:30px;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+    color:#3181FF;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+    color: white;
+  }
+  .header-right {
+    float: none;
+  }
+}
+
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: rgb(231, 231, 231);
+    color: rgb(85, 85, 85);
+}
+div
+{
+	display: block;
+}
+.col-xs-12 {
+    width: 100%;
+}
+#harvard-video {
+    width: 100%;
+    height: auto;	
+}
+.harvard-quote {
+    font-size:40px;
+    line-height: 48px;
+    color: #2EC986;
+    margin-bottom: 30px;
+}
+@media (min-width: 768px)
+.h3, h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.h3, h3 {
+    line-height:1.5;
+     font-size:30px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    font-family: RalewayRegular,Helvetica,sans-serif;
+    margin-top: 0;
+}
+[class*=" btn-"].blue, [class^=btn-].blue {
+    background-color: #3181FF;
+    border-color: #3181FF;
+}
+#design
+{
+	color: white;
+	padding-top: 150px;
+	margin-top: 70px;
+	background-color: rgba(86, 75, 72,0.8);
+	background-repeat: no-repeat;
+	background-size:cover;
+	min-height: 400px;
+	background-image: url("https://on-ze.com/wordpress/wp-content/uploads/2018/01/bubbly.gif");
+	font-family: monospace;
+}
